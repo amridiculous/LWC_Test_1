@@ -1,0 +1,4 @@
+.abc, .xyz{/* use ,. to use the same CSS on another class*/
+    border:1px solid;
+    padding-bottom: 16px;
+}
